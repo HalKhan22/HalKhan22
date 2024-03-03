@@ -1,16 +1,16 @@
 Hi 👋 My name is Haleema Khatoon
 ================================
 
-DevOps Engineer. Instructor.
+Data BI Analyst. Technical Instructor - Data Analyst.
 ----------------------------
 
-Committed and affable Software Engineer boasting a track record of over 4 years, deeply immersed in practical engagements across an array of dynamic cloud platforms, including but not limited to AWS, Microsoft Azure, GCP, IBM Cloud, and DevOps tools.
+Dedicated and results-driven Data Analyst with over 4 years of experience with a proven track record in utilizing a diverse set of tools and technologies for data analysis, reporting, and visualization. Proficient in cloud platforms (AWS, Azure), SQL, Power BI, Python, and data modeling. Strong background in software engineering, cloud infrastructure design, and security.
 
 * 🌍  I'm based in London, UK
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/haleema-khatoon-579659b4)
 * ✉️  You can contact me at [haleemataj22@gmail.com](mailto:haleemataj22@gmail.com)
-* 🚀  I'm currently working on [Freelancing](http://opensourceprojects)
-* 🧠  I'm learning to develop my skills in the AWS | Azure | GCP DevOps & Solution Architect field.
+* 🚀  I'm currently working on [Freelancing](http://opensourceprojects) / Contract
+* 🧠  I'm learning to develop my skills in the AWS | Azure | GCP field.
 * 👩  Pronouns: her/She
 
 ### Skills
