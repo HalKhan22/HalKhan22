@@ -1,6 +1,5 @@
 # 🚀 Hi, I’m Haleema Khatoon! 👋
 
-![Profile Banner](https://github.com/HalKhan22/HalKhan22/blob/main/banner.png)
 
 👩‍💻 **Data BI Analyst | Technical Instructor | Production Support Analyst**  
 🌐 London, UK | 📧 hal.khan22@gmail.com | [LinkedIn](https://www.linkedin.com/in/haleema-khatoon-579659b4/) | [GitHub](https://github.com/HalKhan22)
