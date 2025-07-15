@@ -1,17 +1,38 @@
-Hi 👋 My name is Haleema Khatoon
-================================
+# 🚀 Hi, I’m Haleema Khatoon! 👋
 
-Data BI Analyst. Technical Instructor - Data Analyst.
-----------------------------
+![Profile Banner](https://github.com/HalKhan22/HalKhan22/blob/main/banner.png)
 
-Dedicated and results-driven Data Analyst with over 4 years of experience with a proven track record in utilizing a diverse set of tools and technologies for data analysis, reporting, and visualization. Proficient in cloud platforms (AWS, Azure), SQL, Power BI, Python, and data modeling. Strong background in software engineering, cloud infrastructure design, and security.
+👩‍💻 **Data BI Analyst | Technical Instructor | Production Support Analyst**  
+🌐 London, UK | 📧 hal.khan22@gmail.com | [LinkedIn](https://www.linkedin.com/in/haleema-khatoon-579659b4/) | [GitHub](https://github.com/HalKhan22)
 
-* 🌍  I'm based in London, UK
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/haleema-khatoon-579659b4)
-* ✉️  You can contact me at [haleemataj22@gmail.com](mailto:haleemataj22@gmail.com)
-* 🚀  I'm currently working on [Freelancing](http://opensourceprojects) / Contract
-* 🧠  I'm learning to develop my skills in the AWS | Azure | GCP field.
-* 👩  Pronouns: her/She
+---
+
+## 💡 About Me
+I’m a **Data Analyst and Production Support professional** with 5+ years of experience working with cloud platforms (**AWS, Azure**), data analytics tools (**Power BI, Tableau, SQL, Python**), and monitoring solutions (**Grafana, AppDynamics**). Passionate about building scalable data pipelines, automating processes, and creating actionable insights.
+
+I love collaborating with teams to deliver reliable systems and data-driven solutions.
+
+---
+
+## 🛠️ Skills
+- **Programming:** Python | SQL | JavaScript
+- **Data Visualization:** Power BI | Tableau | Excel
+- **Cloud & DevOps:** AWS | Azure | Terraform | Docker | Kubernetes
+- **Monitoring:** Grafana | AppDynamics | ServiceNow
+- **Other:** Git | JIRA | Agile Methodologies
+
+---
+
+## 📊 GitHub Stats
+![Haleema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HalKhan22&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HalKhan22&layout=compact&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: hal.khan22@gmail.com
+- 🌐 LinkedIn: [Haleema Khatoon](https://www.linkedin.com/in/haleema-khatoon-579659b4/)
+- 💻 Portfolio: Coming Soon
 
 ### Skills
 
