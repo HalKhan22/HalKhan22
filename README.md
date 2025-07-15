@@ -2,7 +2,7 @@
 
 
 👩‍💻 **Data BI Analyst | Technical Instructor | Production Support Analyst**  
-🌐 London, UK | 📧 hal.khan22@gmail.com | [LinkedIn](https://www.linkedin.com/in/haleema-khatoon-579659b4/) | [GitHub](https://github.com/HalKhan22)
+🌐 London, UK | 📧 haleemataj22@gmail.com | [LinkedIn](https://www.linkedin.com/in/haleema-khatoon-579659b4/) | [GitHub](https://github.com/HalKhan22)
 
 ---
 
